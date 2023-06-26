@@ -1,4 +1,4 @@
-# Sierra assesment project
+# Sierra assessment project
 
 ## Project description
 This project implements a restful API that allows to perform create, retrieve and list operations over customer, products and orders resources. A simple react client application was also created in order to interact with the api.
